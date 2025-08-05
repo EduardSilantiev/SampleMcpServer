@@ -1924,7 +1924,7 @@
     "version": "0.1.0-beta",
     "restore": {
       "projectUniqueName": "D:\\DEV\\SandBox\\SampleMcpServer\\SampleMcpServer.csproj",
-      "projectName": "SampleMcpServer",
+      "projectName": "EduardSilantiev.SampleMcpServer",
       "projectPath": "D:\\DEV\\SandBox\\SampleMcpServer\\SampleMcpServer.csproj",
       "packagesPath": "C:\\Users\\Edik\\.nuget\\packages\\",
       "outputPath": "D:\\DEV\\SandBox\\SampleMcpServer\\obj\\",
