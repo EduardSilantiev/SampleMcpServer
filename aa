@@ -1,0 +1,103 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 7266-B0DF
+D:.
+¦   aa
+¦   Program.cs
+¦   README.md
+¦   SampleMcpServer.csproj
+¦   SampleMcpServer.sln
+¦   
++---.mcp
+¦       server.json
+¦       
++---bin
+¦   L---Debug
+¦       L---net8.0
+¦           ¦   Microsoft.Extensions.AI.Abstractions.dll
+¦           ¦   Microsoft.Extensions.Configuration.Abstractions.dll
+¦           ¦   Microsoft.Extensions.Configuration.Binder.dll
+¦           ¦   Microsoft.Extensions.Configuration.CommandLine.dll
+¦           ¦   Microsoft.Extensions.Configuration.dll
+¦           ¦   Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+¦           ¦   Microsoft.Extensions.Configuration.FileExtensions.dll
+¦           ¦   Microsoft.Extensions.Configuration.Json.dll
+¦           ¦   Microsoft.Extensions.Configuration.UserSecrets.dll
+¦           ¦   Microsoft.Extensions.DependencyInjection.Abstractions.dll
+¦           ¦   Microsoft.Extensions.DependencyInjection.dll
+¦           ¦   Microsoft.Extensions.Diagnostics.Abstractions.dll
+¦           ¦   Microsoft.Extensions.Diagnostics.dll
+¦           ¦   Microsoft.Extensions.FileProviders.Abstractions.dll
+¦           ¦   Microsoft.Extensions.FileProviders.Physical.dll
+¦           ¦   Microsoft.Extensions.FileSystemGlobbing.dll
+¦           ¦   Microsoft.Extensions.Hosting.Abstractions.dll
+¦           ¦   Microsoft.Extensions.Hosting.dll
+¦           ¦   Microsoft.Extensions.Logging.Abstractions.dll
+¦           ¦   Microsoft.Extensions.Logging.Configuration.dll
+¦           ¦   Microsoft.Extensions.Logging.Console.dll
+¦           ¦   Microsoft.Extensions.Logging.Debug.dll
+¦           ¦   Microsoft.Extensions.Logging.dll
+¦           ¦   Microsoft.Extensions.Logging.EventLog.dll
+¦           ¦   Microsoft.Extensions.Logging.EventSource.dll
+¦           ¦   Microsoft.Extensions.Options.ConfigurationExtensions.dll
+¦           ¦   Microsoft.Extensions.Options.dll
+¦           ¦   Microsoft.Extensions.Primitives.dll
+¦           ¦   ModelContextProtocol.Core.dll
+¦           ¦   ModelContextProtocol.dll
+¦           ¦   SampleMcpServer.deps.json
+¦           ¦   SampleMcpServer.dll
+¦           ¦   SampleMcpServer.exe
+¦           ¦   SampleMcpServer.pdb
+¦           ¦   SampleMcpServer.runtimeconfig.json
+¦           ¦   System.Diagnostics.DiagnosticSource.dll
+¦           ¦   System.Diagnostics.EventLog.dll
+¦           ¦   System.IO.Pipelines.dll
+¦           ¦   System.Net.ServerSentEvents.dll
+¦           ¦   System.Text.Encodings.Web.dll
+¦           ¦   System.Text.Json.dll
+¦           ¦   
+¦           L---runtimes
+¦               +---browser
+¦               ¦   L---lib
+¦               ¦       L---net8.0
+¦               ¦               System.Text.Encodings.Web.dll
+¦               ¦               
+¦               L---win
+¦                   L---lib
+¦                       L---net8.0
+¦                               System.Diagnostics.EventLog.dll
+¦                               System.Diagnostics.EventLog.Messages.dll
+¦                               
++---obj
+¦   ¦   project.assets.json
+¦   ¦   project.nuget.cache
+¦   ¦   SampleMcpServer.csproj.nuget.dgspec.json
+¦   ¦   SampleMcpServer.csproj.nuget.g.props
+¦   ¦   SampleMcpServer.csproj.nuget.g.targets
+¦   ¦   
+¦   L---Debug
+¦       L---net8.0
+¦           ¦   .NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+¦           ¦   apphost.exe
+¦           ¦   SampleMc.3EB74232.Up2Date
+¦           ¦   SampleMcpServer.AssemblyInfo.cs
+¦           ¦   SampleMcpServer.AssemblyInfoInputs.cache
+¦           ¦   SampleMcpServer.assets.cache
+¦           ¦   SampleMcpServer.csproj.AssemblyReference.cache
+¦           ¦   SampleMcpServer.csproj.CoreCompileInputs.cache
+¦           ¦   SampleMcpServer.csproj.FileListAbsolute.txt
+¦           ¦   SampleMcpServer.dll
+¦           ¦   SampleMcpServer.GeneratedMSBuildEditorConfig.editorconfig
+¦           ¦   SampleMcpServer.genruntimeconfig.cache
+¦           ¦   SampleMcpServer.GlobalUsings.g.cs
+¦           ¦   SampleMcpServer.pdb
+¦           ¦   
+¦           +---ref
+¦           ¦       SampleMcpServer.dll
+¦           ¦       
+¦           L---refint
+¦                   SampleMcpServer.dll
+¦                   
+L---Tools
+        RandomNumberTools.cs
+        WeatherTools.cs
+        
